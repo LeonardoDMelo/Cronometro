@@ -2,7 +2,7 @@
 Nesse projeto desenvolvi um cronometro simples em python utilizando Tkinter.
 Pode ver abaixo:
 
-<img src="cronometro.png">
+<img src="cronometro_layout.png">
 
 Baseado no material de João Futi Muanda
 
