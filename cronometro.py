@@ -93,6 +93,7 @@ def restart():
     # reiniciando o tempo
     tempo = "00:00:00"
     label_tempo['text'] = tempo
+    
 
 
 # Labels-------------
